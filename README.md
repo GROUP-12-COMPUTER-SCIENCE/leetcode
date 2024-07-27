@@ -1,2 +1,2 @@
 # leetcode
-Leetcode weekly problems
+Group leetcode weekly problems
